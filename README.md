@@ -1,4 +1,4 @@
-    Hi 👋, I'm Mauro Cuetia
+# Hi 👋, I'm Mauro Cuetia
 Systems Engineering Student | Database Enthusiast | Future Software Developer
 Passionate about technology, databases, and software development.
 

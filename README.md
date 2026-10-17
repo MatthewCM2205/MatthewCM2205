@@ -1,28 +1,36 @@
-Hi, I'm Mauro 👋
-🎓 Systems Engineering student at the Autonomous University of Nariño 
+    Hi 👋, I'm Mauro Cuetia
+Systems Engineering Student | Database Enthusiast | Future Software Developer
+Passionate about technology, databases, and software development.
 
-I am a Systems Engineering student with a strong interest in databases, software development, and technology. I am currently expanding my knowledge in SQL, PostgreSQL, and software engineering principles through academic projects and continuous learning.
+👨‍💻 About Me
+I am a Systems Engineering student at the Autonomous University of Nariño with a strong interest in databases, software development, and emerging technologies.
 
-My goal is to develop solid technical skills in database design, data management, and application development while gaining hands-on experience with modern technologies and best practices.
+I am currently expanding my knowledge in SQL, PostgreSQL, and software engineering principles through academic projects and continuous learning. My goal is to build solid technical skills in database design, data management, and application development while gaining hands-on experience with modern technologies and best practices.
 
-About Me
-💾 Interested in Database Design and Management
-📚 Currently learning SQL and PostgreSQL
-💻 Exploring Software Development and Programming
-🚀 Passionate about Continuous Learning and Problem Solving
-🎮 Technology and Gaming Enthusiast
-🌱 Always looking for opportunities to improve my skills
-Technologies and Tools
-Currently learning:
+I enjoy solving problems, learning new technologies, and continuously improving my abilities as a future software engineer.
 
+🚀 Currently Learning
 SQL
 PostgreSQL
 Git & GitHub
 Python
 JavaScript
-Goals
-Strengthen my database administration and development skills
-Build practical projects to apply my knowledge
-Learn modern software development practices
-Continue growing as a future software engineer
+Database Design
+Software Development Fundamentals
+🎯 Goals
+Strengthen my database administration and development skills.
+Build practical projects to apply theoretical knowledge.
+Learn modern software development practices.
+Develop efficient and scalable solutions.
+Continue growing professionally as a software engineer.
+💡 Interests
+Database Management
+Software Engineering
+Technology and Innovation
+Problem Solving
+Video Games and Digital Culture
+Continuous Learning
+📈 Future Vision
+My objective is to become a skilled software engineer capable of designing reliable systems, managing data efficiently, and contributing to innovative technology projects that create real value.
+
 "Continuous improvement is better than delayed perfection."
